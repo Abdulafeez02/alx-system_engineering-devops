@@ -1,1 +1,1 @@
-This is sub-directory
+This is a sub-directory
