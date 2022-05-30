@@ -1,1 +1,2 @@
 #!/bin/bash
+ls -ra *.gif | rev | cut -d'.gif' -f1 | rev |sort -i
