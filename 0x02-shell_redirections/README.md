@@ -1,1 +1,1 @@
-This is all about shell redirection
+This is a all about shell redirections
